@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="100%" />
+  <img src="https://i.giphy.com/jTNG3RF6EwbkpD4LZx.webp" alt="Coding Animation" width="800" height="400"/>
 </div>
 
 # Hi there! I'm Abdullah Saleem 👋  
