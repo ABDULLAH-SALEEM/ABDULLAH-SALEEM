@@ -86,7 +86,7 @@ Welcome to my GitHub universe! I'm Abdullah, a passionate **Full Stack Software 
 📍 Location: Munich, Germany  
 📧 Email: [saleemabdullah764@gmail.com](mailto:saleemabdullah764@gmail.com)  
 🔗 LinkedIn: [Abdullah Saleem](https://www.linkedin.com/in/abdullah-saleem-50a632225/)  
-💻 Portfolio: [My Website](#) *(coming soon!)*  
+💻 Portfolio: [My Website](https://abdullahsaleem2002.netlify.app/)
 🌐 GitHub: [@ABDULLAH-SALEEM](https://github.com/ABDULLAH-SALEEM)  
 
 ---
