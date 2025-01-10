@@ -62,8 +62,8 @@ Welcome to my GitHub universe! I'm Abdullah, a passionate **Full Stack Software 
 ## 🛠️ Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABDULLAH-SALEEM&layout=compact&theme=tokyonight&count_private=true)
 
-## 🔥 Streak Stats  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ABDULLAH-SALEEM&theme=tokyonight&count_private=true)](https://git.io/streak-stats)
+## 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ABDULLAH-SALEEM&theme=tokyonight&count_private=true)](https://git.io/streak-stats)
 
 ---
 
